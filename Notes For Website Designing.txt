@@ -1,0 +1,5 @@
+head
+1. set the title of tab
+2. link css file
+3. link javascript
+4. set the icon of the website
